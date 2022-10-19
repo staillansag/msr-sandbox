@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<IDataXMLCoder version="1.0">
+  <record javaclass="com.wm.data.ISMemDataImpl">
+    <value name="name">STT_MSR_Local</value>
+    <value name="description">STT_MSR_Local</value>
+    <number name="lastUploadedTime" type="java.lang.Long">1666185017143</number>
+    <number name="lastSavedTime" type="java.lang.Long">1666185018901</number>
+    <array name="packages" type="record" depth="1">
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="package">DeviceManagement</value>
+        <array name="details" type="record" depth="1">
+          <record javaclass="com.wm.data.ISMemDataImpl">
+            <value name="serviceName">DeviceManagement.service:CreateDeviceOrder</value>
+            <value name="displayName">CreateDeviceOrder</value>
+            <jboolean name="isShared">true</jboolean>
+            <jboolean name="useBatch">false</jboolean>
+          </record>
+          <record javaclass="com.wm.data.ISMemDataImpl">
+            <value name="serviceName">DeviceManagement.service:ListOrderEvents</value>
+            <value name="displayName">ListOrderEvents</value>
+            <jboolean name="isShared">true</jboolean>
+            <jboolean name="useBatch">false</jboolean>
+          </record>
+        </array>
+      </record>
+    </array>
+    <array name="connections" type="record" depth="1">
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="connectionName">default_alias</value>
+        <value name="connectionStage">stage00</value>
+        <value name="tenantAlias">default</value>
+      </record>
+    </array>
+    <array name="tenantAliases" type="record" depth="1">
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="tenantAlias">default</value>
+      </record>
+    </array>
+  </record>
+</IDataXMLCoder>
