@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">WmDataHub</value>
+  <value name="description">IS services to capture data for webMethods DataHub</value>
+  <value name="publisher">Software AG</value>
+  <value name="version">1.0.3.0.2859</value>
+  <value name="build">2859</value>
+  <value name="jvm_version">1.8</value>
+  <value name="system_package">yes</value>
+  <record name="startup_services" javaclass="com.wm.util.Values">
+    <null name="wm.datahub.admin:startup"/>
+  </record>
+  <record name="shutdown_services" javaclass="com.wm.util.Values">
+    <null name="wm.datahub.admin:shutdown"/>
+  </record>
+</Values>
