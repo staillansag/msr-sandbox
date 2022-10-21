@@ -16048,5 +16048,14 @@
 
 <MAPDELETE FIELD="/lastUpdateDateTime;1;0">
 </MAPDELETE>
+
+<MAPDELETE FIELD="/mediumInterval;1;0">
+</MAPDELETE>
+
+<MAPDELETE FIELD="/longInterval;1;0">
+</MAPDELETE>
+
+<MAPDELETE FIELD="/shortInterval;1;0">
+</MAPDELETE>
 </MAP>
 </FLOW>
