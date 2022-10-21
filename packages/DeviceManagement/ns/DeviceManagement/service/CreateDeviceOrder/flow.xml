@@ -170,9 +170,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -454,9 +454,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -678,9 +678,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -1118,9 +1118,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -1499,9 +1499,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -1841,9 +1841,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -2110,9 +2110,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -2401,9 +2401,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -2722,9 +2722,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -3132,9 +3132,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -3416,9 +3416,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -3769,9 +3769,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -4028,9 +4028,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -4386,9 +4386,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -4656,9 +4656,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -5036,9 +5036,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -5328,9 +5328,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -5708,9 +5708,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -5989,9 +5989,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -6383,9 +6383,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -6697,9 +6697,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -7099,9 +7099,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -7413,9 +7413,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -7842,9 +7842,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -8167,9 +8167,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -8596,9 +8596,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -8943,9 +8943,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -9398,9 +9398,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -9756,9 +9756,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -10226,9 +10226,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -10606,9 +10606,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -11084,9 +11084,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -11489,9 +11489,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -11973,9 +11973,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -12364,9 +12364,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -12863,9 +12863,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -13279,9 +13279,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -13785,9 +13785,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -14223,9 +14223,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -15020,9 +15020,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
@@ -15806,9 +15806,9 @@
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
-          <value>CRITICAL</value>
-          <value>MAJOR</value>
-          <value>MINOR</value>
+          <value>Mineur</value>
+          <value>Majeur</value>
+          <value>Critique</value>
         </array>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
