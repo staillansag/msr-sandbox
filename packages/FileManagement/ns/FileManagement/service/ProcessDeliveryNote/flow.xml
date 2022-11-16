@@ -4245,9 +4245,6 @@
 </DATA>
 </MAPSET>
 
-<MAPCOPY FROM="/DeliveryNoteDate;1;0" TO="/InsertDeliveryNoteInput;2;0/DeliveryNoteDate;1;0">
-</MAPCOPY>
-
 <MAPSET NAME="Setter" OVERWRITE="true" VARIABLES="true" GLOBALVARIABLES="false" FIELD="/InsertDeliveryNoteInput;2;0/Warehouse;1;0">
   <DATA ENCODING="XMLValues" I18N="true">
 
@@ -4399,6 +4396,9 @@
 </Values>
 </DATA>
 </MAPSET>
+
+<MAPCOPY FROM="/DeliveryNoteDate;1;0" TO="/InsertDeliveryNoteInput;2;0/DeliveryNoteDate;1;0">
+</MAPCOPY>
 </MAP>
 </INVOKE>
 
